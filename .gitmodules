@@ -1,3 +1,6 @@
 [submodule "lib/co2sensor"]
 	path = lib/co2sensor
 	url = git@github.com:taki-d/co2sensor
+[submodule "lib/M5Stack"]
+	path = lib/M5Stack
+	url = git@github.com:m5stack/M5Stack.git
