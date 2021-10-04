@@ -108,7 +108,7 @@ void loop()
   delay(1000);
   // serial.println(co2sensor.readPPM());
   co2_ppm = co2sensor.readPPM();
-  serial.println(co2_ppm);
-  serial.println(getPosition(co2_ppm));
+  // serial.println(co2_ppm);
+  // serial.println(getPosition(co2_ppm));
   updateDisplay();
 }
