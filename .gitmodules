@@ -4,3 +4,6 @@
 [submodule "lib/M5Stack"]
 	path = lib/M5Stack
 	url = git@github.com:m5stack/M5Stack.git
+[submodule "lib/InfluxDB-Client-for-Arduino"]
+	path = lib/InfluxDB-Client-for-Arduino
+	url = git@github.com:tobiasschuerg/InfluxDB-Client-for-Arduino.git
