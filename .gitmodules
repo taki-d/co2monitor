@@ -1,0 +1,3 @@
+[submodule "lib/co2sensor"]
+	path = lib/co2sensor
+	url = git@github.com:taki-d/co2sensor
